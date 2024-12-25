@@ -1,0 +1,30 @@
+﻿  Juego.cpp
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\TP-Integrador\Gun\Juego.cpp(10,49): warning C4244: 'argumento': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\TP-Integrador\Gun\Juego.cpp(10,35): warning C4244: 'argumento': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\TP-Integrador\Gun\Juego.cpp(146,88): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\TP-Integrador\Gun\Juego.cpp(146,57): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\TP-Integrador\Gun\Juego.cpp(210,58): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  main.cpp
+C:\Users\Usuario\Desktop\Lu Facultad\MAVI\TP-Integrador\Gun\main.cpp(6,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  Gun.vcxproj -> C:\Users\Usuario\Desktop\Lu Facultad\MAVI\TP-Integrador\Gun\Debug\Gun.exe
